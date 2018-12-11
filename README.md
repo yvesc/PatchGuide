@@ -10,7 +10,7 @@ This is a quick guide to diff and patch which will help you in these situations 
 
 To apply a patch to a single file, change to the directory where the file is located and call patch:
 
-patch < foo.patch
+	patch < foo.patch
 
 These instructions assume the patch is distributed in unified format, which identifies the file the patch should be applied to. If not, you can specify the file on the command line:
 
