@@ -1,5 +1,5 @@
 # Guide to diff and patch
-Original Source: [Stephen Jungels, Diff and patch in ten minutes](http://stephenjungels.com/jungels.net/articles/diff-patch-ten-minutes.html)
+Original Source: [Stephen Jungels, "The Ten Minute Guide to diff and patch"](http://stephenjungels.com/jungels.net/articles/diff-patch-ten-minutes.html)
 
 Situation one: you are trying to compile a package from source and you discover that somebody has already done the work for you of modifying it slightly to compile on your system. They have made their work available as a "patch", but you're not sure how to make use of it. The answer is that you apply the patch to the original source code with a command line tool called, appropriately, patch.
 
